@@ -22,3 +22,6 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 [Carbon UI](https://vue.carbondesignsystem.com/?path=/story/welcome--default)
+
+
+![image](https://user-images.githubusercontent.com/18229355/138548639-ecaa86fc-a5e5-4245-8de4-d77eba1f4a5a.png)
